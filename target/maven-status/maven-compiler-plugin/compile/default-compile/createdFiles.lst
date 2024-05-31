@@ -1,0 +1,11 @@
+Clases\Cliente.class
+com\mycompany\projectbiblioteca\PrincipalController.class
+Clases\CConnection.class
+com\mycompany\projectbiblioteca\App.class
+Clases\Serializacion.class
+Clases\Libro.class
+Clases\Prestamo.class
+com\mycompany\projectbiblioteca\PrestamosController.class
+module-info.class
+Clases\LibroSer.class
+com\mycompany\projectbiblioteca\ClientesController.class
